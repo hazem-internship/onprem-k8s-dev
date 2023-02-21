@@ -11,7 +11,7 @@ releases:
   version: 1.10.0
   forceNamespace: ""
   skipDeps: null
-- chart: jx3/vault-instance
+- chart: jxgh/vault-instance
   name: vault-instance
   version: 1.0.15
   forceNamespace: ""
